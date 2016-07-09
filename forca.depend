@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1463021035 source:c:\users\andre\onedrive\documentos\c\forca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"forca.h"
+
+1463020759 c:\users\andre\onedrive\documentos\c\forca\forca.h
+
